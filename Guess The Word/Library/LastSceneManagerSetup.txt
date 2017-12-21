@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/loading.unity
+  isLoaded: 0
+  isActive: 0
+- path: "Assets/\xFCberuns.unity"
+  isLoaded: 0
+  isActive: 0
+- path: Assets/highscore.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/game.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/finished.unity
+  isLoaded: 0
+  isActive: 0
